@@ -8,12 +8,9 @@
 
 
 $price = $_REQUEST['price'];
-
-
-$fbid = isset($_REQUEST['s2'])? $_REQUEST['s2'] : $_REQUEST['sub2']
-
-$Event = isset($_REQUEST['s3'])? $_REQUEST['s3'] : $_REQUEST['sub3']
-$Currency = isset($_REQUEST['s4'])? $_REQUEST['s4'] : $_REQUEST['sub4']
+$fbid = $_REQUEST['s2'];
+$Event = $_REQUEST['s3'];
+$Currency = $_REQUEST['s4'];
 
 ?>
 <script>
