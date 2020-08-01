@@ -1,1 +1,1 @@
-{"SiteTextLogo":"Relax and Be Healthy","ContactEmail":"info@<?php echo $_SERVER['HTTP_HOST']; ?>","pixel_id":"1213","CurrencySymbol":"$","FacebookCurrency":"USD"}
+{"SiteTextLogo":"Relax and Be Healthy","ContactEmail":"info@<?php echo $_SERVER['HTTP_HOST']; ?>","pixel_id":"1190670531287026","CurrencySymbol":"$","FacebookCurrency":"USD"}
